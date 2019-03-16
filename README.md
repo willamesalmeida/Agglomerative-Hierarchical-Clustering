@@ -1,2 +1,2 @@
 # Agglomerative-Hierarchical-Clustering
-Uma exemplificação pratica de clusterização hierarquica com a biblioteca Agglomerative clustering sklearn
+Uma exemplificação prática de clusterização hierárquico com a biblioteca Agglomerative clustering sklearn
